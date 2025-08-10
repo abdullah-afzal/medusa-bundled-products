@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  A Medusa plugin that adds <b>bundled product</b> functionality, allowing you to create and manage product bundles that combine multiple products into a single offering. Perfect for <i>kits</i>, <i>starter packs</i>, and <i>promotional combos</i>.
+  A Medusa plugin that adds <b>bundled product</b> functionality, allowing you to create and manage product bundles that combine multiple products into a single offering. Perfect for <i>kits</i>, <i>starter packs</i>, and <i>promotional combos</i>, base on medusa example for bundles.
 </p>
 
 ---
