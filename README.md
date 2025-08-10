@@ -49,6 +49,10 @@
      ],
    });
    ```
+3. **Run Migrations**:
+   ```js
+    npx medusa db:migrate
+   ```
 
 ---
 
