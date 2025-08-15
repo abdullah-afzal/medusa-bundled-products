@@ -1,6 +1,6 @@
 {
   "name": "medusa-bundled-products",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin for bundled products.",
   "author": "Abdullah Afzal (https://github.com/abdullah-afzal)",
   "license": "MIT",
@@ -26,7 +26,7 @@
     "medusa-plugin",
     "medusa-v2",
     "medusa-bundled-products",
-    "medusa-plugin-cms"
+    "medusa-plugin-other"
   ],
   "scripts": {
     "build": "medusa plugin:build",
