@@ -1,9 +1,13 @@
 {
   "name": "medusa-bundled-products",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Plugin for bundled products.",
   "author": "Abdullah Afzal (https://github.com/abdullah-afzal)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdullah-afzal/medusa-bundled-products"
+  },
   "files": [
     ".medusa/server"
   ],
